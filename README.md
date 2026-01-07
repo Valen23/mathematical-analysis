@@ -5,7 +5,7 @@ Este repositorio contiene un estudio estadístico y computacional sobre el impac
 ## 🚀 Acceso al Análisis Técnico
 El procesamiento de datos y la generación de modelos se realizaron íntegramente en Python utilizando Google Colab. 
 
-🔗 **[Google Colab: Metodos de regresion lineal.ipynb](https://colab.research.google.com/drive/1OmtBegmyRG1JWAFazHsCuhBC6pwvft?usp=sharing)**
+🔗 **[Google Colab: Metodos de regresion lineal.ipynb](https://colab.research.google.com/drive/1OmtBegmyRG1_JWAFazHsCuhB_C6pwvft)**
 
 ## 📝 Resumen del Proyecto
 La investigación analiza una muestra de 400 participantes para comprender el vínculo entre la tecnología, el descanso y la salud mental.
