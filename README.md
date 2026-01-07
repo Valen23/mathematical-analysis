@@ -1,6 +1,6 @@
 # 📊 Análisis de Bienestar Mental mediante Modelos de Regresión
 
-[cite_start]Este repositorio contiene un estudio estadístico y computacional sobre el impacto del estilo de vida en el bienestar mental, basado en el dataset **"Screen Time vs Mental Wellness Survey - 2025"**. [cite_start]El proyecto utiliza modelos de **regresión lineal simple y múltiple** para predecir niveles de estrés a partir de variables como productividad y calidad de sueño.
+Este repositorio contiene un estudio estadístico y computacional sobre el impacto del estilo de vida en el bienestar mental, basado en el dataset **"Screen Time vs Mental Wellness Survey - 2025"**. El proyecto utiliza modelos de **regresión lineal simple y múltiple** para predecir niveles de estrés a partir de variables como productividad y calidad de sueño.
 
 ## 🚀 Acceso al Análisis Técnico
 [cite_start]El procesamiento de datos y la generación de modelos se realizaron íntegramente en Python utilizando Google Colab. 
